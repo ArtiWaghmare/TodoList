@@ -149,7 +149,7 @@ letter-spacing: 0em;;
   color: #888;
 }
 
-/* Animation for drag-and-drop */
+
 .react-beautiful-dnd-dragging {
   transition: transform 0.2s ease;
 }

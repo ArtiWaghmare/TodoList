@@ -1,11 +1,11 @@
-/* Responsive styles */
+
 @media (max-width: 768px) {
     .container {
       max-width: 100%;
     }
   }
   
-  /* General styles */
+  
   .container {
     padding: 2rem;
   }
